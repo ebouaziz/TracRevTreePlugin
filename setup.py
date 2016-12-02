@@ -35,7 +35,7 @@ setup(
             'htdocs/js/*.js',
             'htdocs/js/require-2.1.20/*.js',
             'htdocs/images/*.gif',
-            'templates/*.html'
+            'templates/*.html',
             'templates/*.svg'
         ]
     },
